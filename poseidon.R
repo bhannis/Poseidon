@@ -3,11 +3,13 @@
 # 
 # Modified from version poseidon12.06.2015.R
 # Written by Lee Hsiang Liow 2015
-# (with contributions from Bjarte Hannisdal)
+# with contributions from Bjarte Hannisdal
 #
-# This file is provided as auxiliary supplementary material to
-# Hannisdal B, Haaga KA, Reitan T, Diego D, and Liow LH, 
-# "Common Species Link Global Ecosystems to Climate Change".
+# This file is provided as part of the electronic supplementary material to
+# Hannisdal B, Haaga KA, Reitan T, Diego D, and Liow LH, 2017,
+# Common species link global ecosystems to climate change: dynamical evidence
+# in the planktonic fossil record. Proc. R. Soc. B 284: 2010722
+# http://dx.doi.org/10.1098/rspb.2017.0722
 #-------------------------------------------------------------------------------------------#
 
 poseidon=function(Nt, mu, sig, cell, max_sp, min_sp, max_indiv, min_indiv){
