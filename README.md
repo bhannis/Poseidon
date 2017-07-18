@@ -1,5 +1,3 @@
-README.md 
-
 The Poseidon repository is provided as part of the electronic supplementary material 
 for Hannisdal B, Haaga KA, Reitan T, Diego D, and Liow LH, 2017, Common species Link global ecosystems to climate change: dynamical evidence in the planktonic fossil record. Proc. R. Soc. B 284: 2010722
 http://dx.doi.org/10.1098/rspb.2017.0722
